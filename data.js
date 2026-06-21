@@ -646,6 +646,26 @@ window.LUMIO_DATA = {
 
 window.PAC_CONFIG = {
   "bloc": "bc2",
+  accroche_namescreen: {
+    "subtitle": "Piloter la mise en œuvre",
+    "role": "consultant·e en pilotage d'organisation",
+    "intro": "Tu es {{STUDENT}}, consultant·e chez Lumio Health pour l'Opération Pulse Zéro — l'entreprise décroche de son cap stratégique. Pilotage structurel et financier, indicateurs de suivi, amélioration continue : tu produis le rapport d'activité, le business plan et l'étude de cas qui remettent l'organisation sur sa trajectoire.",
+    "ratio_label": "3 semaines dans la vraie vie",
+    "regles": [
+      {
+        "ico": "📄",
+        "txt": "Tout ce que tu sais, c'est dans les documents de pilotage du poste de mission."
+      },
+      {
+        "ico": "🤐",
+        "txt": "Le jury évalue tes outils de contrôle de gestion, tes indicateurs et la mesure des écarts."
+      },
+      {
+        "ico": "💬",
+        "txt": "Quand tu as une analyse solide → Slack → ton commanditaire. Sa réaction débloque la suite."
+      }
+    ]
+  },
   "titre": "Piloter la mise en œuvre de la stratégie globale d'une organisation",
   "epreuve": "Évaluation 1 : Rapport d'activité (mémoire professionnel), Évaluation 2 : Business plan, Évaluation 3 : Étude de cas",
   "deadline": "14 mars 2025 · 18h00",
@@ -810,7 +830,7 @@ window.PAC_CONFIG = {
   ],
   "gabarits": {},
   "questionsPositionnement": [],
-  "juryPrompt": "Tu es le jury certifiant du bloc bc2 (Diriger une organisation).\nContexte : Opération Pulse Zéro — Lumio Health face au décrochage de son cap stratégique · 14 mars 2025.\nTu évalues une production étudiante aux critères RNCP stricts. Sois exigeant mais juste.\nCritères éliminatoires :\n- Absence de distinction claire des rôles et responsabilités de chaque membre de l'équipe Lumio (Sonia Ferracci, Camille Ott, Yassine Morel, Théo Marczak) dans le dispositif de pilotage proposé — le jury attend un RACI ou équivalent explicite.\n- Aucun indicateur d'impact chiffré (KPI, ROI, EBE, BFR) associé aux recommandations formulées — toute préconisation non étayée par des données quantitatives est considérée comme insuffisante.\n- Business plan sans prévisionnel de trésorerie sur au moins 12 mois ou absence d'analyse du Fonds de Roulement (FR) et du Besoin en Fonds de Roulement (BFR) — le jury éliminera tout dossier financier incomplet.\n- Tableau de bord proposé ne couvrant pas a minima trois dimensions distinctes de l'activité Lumio (financière, commerciale B2B, marketing digital) — un tableau mono-dimensionnel est éliminatoire.\n- Absence totale de démarche d'amélioration continue formalisée (PDCA, Agile ou équivalent) dans l'étude de cas — la simple liste de recommandations sans mécanisme d'itération et d'adaptation est insuffisante.\n- Note réflexive absente ou inférieure à 100 mots — la prise de recul sur sa propre pratique de pilotage est une exigence non négociable du référentiel.\n- Aucune référence au contexte international/européen (marché scandinave, partenariat Northgate, enjeux cross-culturels) dans le business plan de développement — le jury sanctionne toute approche purement franco-centrée.\n\nRéponds EXACTEMENT dans ce format :\n### C8 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C9 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C10 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C11 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C12 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C13 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### Note réflexive — [Satisfaisant / Insuffisant / Absent]\nUne phrase.\n\n## Niveau global\n**[Non conforme / Partiellement conforme / Conforme / Conforme avec distinction]**\n\n## Question de jury\nUne question dérangeante que tu poserais à l'oral.",
+  "juryPrompt": "Tu es le jury certifiant du bloc bc2 (Piloter la mise en œuvre de la stratégie globale d'une organisation — MDO, RNCP 35280).\nContexte : Opération Pulse Zéro — Lumio Health face au décrochage de son cap stratégique · 14 mars 2025.\nTu évalues une production étudiante aux critères RNCP stricts. Sois exigeant mais juste.\nCritères éliminatoires :\n- Absence de distinction claire des rôles et responsabilités de chaque membre de l'équipe Lumio (Sonia Ferracci, Camille Ott, Yassine Morel, Théo Marczak) dans le dispositif de pilotage proposé — le jury attend un RACI ou équivalent explicite.\n- Aucun indicateur d'impact chiffré (KPI, ROI, EBE, BFR) associé aux recommandations formulées — toute préconisation non étayée par des données quantitatives est considérée comme insuffisante.\n- Business plan sans prévisionnel de trésorerie sur au moins 12 mois ou absence d'analyse du Fonds de Roulement (FR) et du Besoin en Fonds de Roulement (BFR) — le jury éliminera tout dossier financier incomplet.\n- Tableau de bord proposé ne couvrant pas a minima trois dimensions distinctes de l'activité Lumio (financière, commerciale B2B, marketing digital) — un tableau mono-dimensionnel est éliminatoire.\n- Absence totale de démarche d'amélioration continue formalisée (PDCA, Agile ou équivalent) dans l'étude de cas — la simple liste de recommandations sans mécanisme d'itération et d'adaptation est insuffisante.\n- Note réflexive absente ou inférieure à 100 mots — la prise de recul sur sa propre pratique de pilotage est une exigence non négociable du référentiel.\n- Aucune référence au contexte international/européen (marché scandinave, partenariat Northgate, enjeux cross-culturels) dans le business plan de développement — le jury sanctionne toute approche purement franco-centrée.\n\nRéponds EXACTEMENT dans ce format :\n### C8 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C9 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C10 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C11 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C12 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C13 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### Note réflexive — [Satisfaisant / Insuffisant / Absent]\nUne phrase.\n\n## Niveau global\n**[Non conforme / Partiellement conforme / Conforme / Conforme avec distinction]**\n\n## Question de jury\nUne question dérangeante que tu poserais à l'oral.",
   "livrableMinMots": 520,
   "noteReflexiveMinMots": 100
 };
