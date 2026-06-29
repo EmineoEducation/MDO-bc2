@@ -371,13 +371,17 @@ window.LUMIO_DATA = {
             "kind": "mail",
             "name": "URGENT — CODIR extraordinaire",
             "app": "mail",
-            "props": { "openId": "DOC-01" }
+            "props": {
+              "docId": "DOC-01"
+            }
           },
           {
             "kind": "pdf",
             "name": "KPI Marketing T1 2025",
             "app": "pdf",
-            "props": { "openDoc": "DOC-02" }
+            "props": {
+              "docId": "DOC-02"
+            }
           }
         ]
       },
@@ -390,13 +394,17 @@ window.LUMIO_DATA = {
             "kind": "note",
             "name": "Point déploiement Northgate —",
             "app": "notes",
-            "props": { "openNote": "DOC-03" }
+            "props": {
+              "docId": "DOC-03"
+            }
           },
           {
             "kind": "mail",
             "name": "Re: Déploiement Phase 2",
             "app": "mail",
-            "props": { "openId": "DOC-04" }
+            "props": {
+              "docId": "DOC-04"
+            }
           }
         ]
       },
@@ -409,13 +417,17 @@ window.LUMIO_DATA = {
             "kind": "pdf",
             "name": "Draft business plan relance",
             "app": "pdf",
-            "props": { "openDoc": "DOC-05" }
+            "props": {
+              "docId": "DOC-05"
+            }
           },
           {
             "kind": "pdf",
             "name": "Audit processus Content &",
             "app": "pdf",
-            "props": { "openDoc": "DOC-06" }
+            "props": {
+              "docId": "DOC-06"
+            }
           }
         ]
       },
@@ -428,7 +440,9 @@ window.LUMIO_DATA = {
             "kind": "pdf",
             "name": "CR CODIR 14/03/2025 —",
             "app": "pdf",
-            "props": { "openDoc": "DOC-07" }
+            "props": {
+              "docId": "DOC-07"
+            }
           }
         ]
       },
@@ -441,7 +455,9 @@ window.LUMIO_DATA = {
             "kind": "mail",
             "name": "Transcription — Échange Camille",
             "app": "mail",
-            "props": { "openId": "DOC-08" }
+            "props": {
+              "docId": "DOC-08"
+            }
           }
         ]
       },
@@ -451,46 +467,46 @@ window.LUMIO_DATA = {
         "icon": "🪪",
         "items": [
           {
-                    "kind": "html",
-                    "name": "Théo Marczak — CEO",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "theo"
-                    }
+            "kind": "html",
+            "name": "Théo Marczak — CEO",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_theo_marczak.html"
+            }
           },
           {
-                    "kind": "html",
-                    "name": "Sonia Ferracci — Dir. Marketing",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "sonia"
-                    }
+            "kind": "html",
+            "name": "Sonia Ferracci — Dir. Marketing",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_sonia_ferracci.html"
+            }
           },
           {
-                    "kind": "html",
-                    "name": "Camille Ott — Partenariats B2B",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "camille"
-                    }
+            "kind": "html",
+            "name": "Camille Ott — Partenariats B2B",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_camille_ott.html"
+            }
           },
           {
-                    "kind": "html",
-                    "name": "Yassine Morel — Content Manager",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "yassine"
-                    }
+            "kind": "html",
+            "name": "Yassine Morel — Content Manager",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_yassine_morel.html"
+            }
           },
           {
-                    "kind": "html",
-                    "name": "Jakob Rein — Northgate Capital",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "jakob"
-                    }
+            "kind": "html",
+            "name": "Jakob Rein — Northgate Capital",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_jakob_rein.html"
+            }
           }
-          ]
+        ]
       }
     },
     "order": [
@@ -612,7 +628,7 @@ window.LUMIO_DATA = {
       "date": "11 mars 2025",
       "headline": "Medtech : quand l'écart entre ambition stratégique et exécution opérationnelle devient le vrai risque de croissance",
       "lede": "Les start-up de santé connectée françaises affichent des roadmaps ambitieuses, mais les données du premier trimestre 2025 révèlent une fracture persistante entre objectifs fixés en janvier et résultats terrain. Un phénomène qui fragilise autant la relation investisseur que la crédibilité commerciale.",
-      "illustration": "portraits/Theo_Marczak.png",
+      "illustration": "PHOTO ILLUSTRATIVE",
       "body": "Les acteurs de la medtech portée — wearables, capteurs biométriques, dispositifs de monitoring continu — ont massivement investi dans la formalisation de plans stratégiques pluriannuels depuis 2022. Une maturité de façade, selon plusieurs observateurs du secteur, qui masque des lacunes profondes dans la traduction opérationnelle de ces ambitions.\n\nSelon une étude du cabinet Alma Consulting publiée en février 2025, 67 % des scale-up medtech européennes ayant levé entre 5 et 20 millions d'euros constatent un écart supérieur à 15 % entre leurs KPI stratégiques et leurs indicateurs opérationnels réels au bout d'un trimestre. « Le problème n'est pas la qualité du plan, c'est l'absence de dispositif de pilotage intermédiaire capable de détecter la dérive avant qu'elle devienne structurelle », résume Élise Coquery, directrice associée chez Alma.\n\nLe déploiement de partenariats B2B à l'international constitue l'un des points de rupture les plus fréquents. Les délais contractuels sont souvent sous-estimés, les équipes terrain insuffisamment dotées en outils de coordination, et les indicateurs de suivi calqués sur des modèles SaaS peu adaptés aux contraintes réglementaires du secteur médical en Europe du Nord.\n\nCôté financement, la tension se cristallise autour de la relation avec les fonds d'investissement. Ces derniers exigent désormais, dès le premier signe de décrochage, la production d'un plan de pilotage consolidé — souvent sous des délais très courts. « Dix jours pour reconstruire une feuille de route crédible, c'est devenu la norme implicite dans nos term sheets », confie un partner d'un fonds spécialisé santé numérique, sous couvert d'anonymat.\n\nLes directions marketing et content sont les premières à absorber les conséquences de ces désalignements. La baisse d'engagement des contenus de marque, mesurée sur les marchés nordiques et germaniques, est souvent le premier signal visible d'une perte de cohérence entre le discours externe et la réalité du déploiement produit.\n\nFace à ces constats, plusieurs medtech ont commencé à structurer des CODIR de crise trimestriels, intégrant une révision systématique des hypothèses du business plan initial. L'objectif : ne plus attendre le bilan semestriel pour corriger le tir, mais instaurer une culture du pilotage continu, outillée et documentée.\n\n« La pérennité d'une organisation dans ce secteur ne se joue plus seulement sur l'innovation produit, conclut Élise Coquery. Elle se joue sur la capacité du management à transformer un écart de performance en levier d'amélioration — vite, et de façon visible pour les partenaires. »"
     }
   ],
@@ -628,36 +644,8 @@ window.LUMIO_DATA = {
   }
 };
 
-
-// ── Correctifs RETEX juin 2026 ── injectés après LUMIO_DATA ──────────────
-if (!window.LUMIO_DATA.finder.folders.mission) { window.LUMIO_DATA.finder.folders.mission = {"title": "Mission — Dossier complet", "sidebar": "Mission", "icon": "🗂", "items": [{"kind": "folder", "name": "Acte 1 — Ancrage", "folder": "acte1"}, {"kind": "folder", "name": "Acte 2 — Entrée affaire", "folder": "acte2"}, {"kind": "folder", "name": "Acte 3 — Diagnostic", "folder": "acte3"}, {"kind": "folder", "name": "Acte 4 — Production", "folder": "acte4"}, {"kind": "folder", "name": "Acte 5 — Réflexion", "folder": "acte5"}, {"kind": "folder", "name": "Portraits équipe", "folder": "portraits"}]}; }
-if (!window.LUMIO_DATA.finder.order.includes('mission')) { var _o=window.LUMIO_DATA.finder.order; window.LUMIO_DATA.finder.order = ['guide','mission',..._o.filter(x=>x!=='guide')]; }
-if (!window.LUMIO_DATA.portraits || !window.LUMIO_DATA.portraits.length) { window.LUMIO_DATA.portraits = [{"key": "theo", "id": "portrait-theo", "title": "Théo Marczak — CEO", "tabTitle": "Théo Marczak", "favicon": "T", "faviconColor": "#0a3d62", "host": "lusinedigitale.fr", "url": "lusinedigitale.fr/portrait/theo-marczak", "file": "portraits/portrait_theo_marczak.html"}, {"key": "sonia", "id": "portrait-sonia", "title": "Sonia Ferracci — Dir. Marketing", "tabTitle": "Sonia Ferracci", "favicon": "S", "faviconColor": "#a02020", "host": "cbnews.fr", "url": "cbnews.fr/portrait/sonia-ferracci", "file": "portraits/portrait_sonia_ferracci.html"}, {"key": "camille", "id": "portrait-camille", "title": "Camille Ott — Partenariats B2B", "tabTitle": "Camille Ott", "favicon": "C", "faviconColor": "#1a6641", "host": "actionco.fr", "url": "actionco.fr/portrait/camille-ott", "file": "portraits/portrait_camille_ott.html"}, {"key": "yassine", "id": "portrait-yassine", "title": "Yassine Morel — Content Manager", "tabTitle": "Yassine Morel", "favicon": "Y", "faviconColor": "#e85d3a", "host": "maddyness.com", "url": "maddyness.com/portrait/yassine-morel", "file": "portraits/portrait_yassine_morel.html"}, {"key": "jakob", "id": "portrait-jakob", "title": "Jakob Rein — Northgate Capital", "tabTitle": "Jakob Rein", "favicon": "J", "faviconColor": "#1b3a6b", "host": "forbes.fr", "url": "forbes.fr/portrait/jakob-rein", "file": "portraits/portrait_jakob_rein.html"}]; }
-if (!window.LUMIO_DATA.desktopIcons) { window.LUMIO_DATA.desktopIcons = [{"app": "finder", "folder": "mission", "label": "Mission", "kind": "folder"}, {"app": "finder", "folder": "portraits", "label": "Portraits équipe", "kind": "folder"}, {"app": "mail", "label": "Mail", "kind": "app"}, {"app": "slack", "label": "Slack", "kind": "app"}, {"app": "notepad", "label": "Mes notes.txt", "kind": "app"}]; }
-if (!window.LUMIO_DATA.voiceMemos || !window.LUMIO_DATA.voiceMemos.length) { window.LUMIO_DATA.voiceMemos = [{"title": "Débrief RDV — partenaire stratégique", "author": "Camille Ott", "role": "Responsable partenariats B2B", "date": "Mars 2025", "context": "mémo dicté après réunion", "durationSec": 44, "transcript": "Réunion ce matin avec le partenaire clé. Le message principal : ils veulent avancer, mais pas sans voir la certification MDR progresser. Côté budget, la fourchette est réaliste — ils sont prêts à discuter. Ce qui bloque, c'est la souveraineté des données : hébergement France, audit annuel, accès self-service. Je leur ai dit qu'on pouvait s'engager sur ce point d'ici fin mars. À valider avec Théo avant que je confirme."}, {"title": "Note terrain — signaux B2B semaine", "author": "Camille Ott", "role": "Responsable partenariats B2B", "date": "Avril 2025", "context": "mémo dicté en déplacement", "durationSec": 36, "transcript": "Trois signaux forts cette semaine. Un : les DSI bloquent systématiquement sur RGPD dès qu'on parle de wearable — sans hébergement local certifié, on ne passe pas. Deux : le sujet est remonté au niveau comité de direction dans deux entreprises sur trois — la décision n'est plus RH, elle est stratégique. Trois : les mutuelles commencent à nous solliciter directement pour des offres packagées. C'est un canal qu'on n'avait pas prévu et qui mérite qu'on y consacre du temps."}]; }
-
 window.PAC_CONFIG = {
   "bloc": "bc2",
-  accroche_namescreen: {
-    "subtitle": "Piloter la mise en œuvre",
-    "role": "consultant·e en pilotage d'organisation",
-    "intro": "Tu es {{STUDENT}}, consultant·e chez Lumio Health pour l'Opération Pulse Zéro — l'entreprise décroche de son cap stratégique. Pilotage structurel et financier, indicateurs de suivi, amélioration continue : tu produis le rapport d'activité, le business plan et l'étude de cas qui remettent l'organisation sur sa trajectoire.",
-    "ratio_label": "3 semaines dans la vraie vie",
-    "regles": [
-      {
-        "ico": "📄",
-        "txt": "Tout ce que tu sais, c'est dans les documents de pilotage du poste de mission."
-      },
-      {
-        "ico": "🤐",
-        "txt": "Le jury évalue tes outils de contrôle de gestion, tes indicateurs et la mesure des écarts."
-      },
-      {
-        "ico": "💬",
-        "txt": "Quand tu as une analyse solide → Slack → ton commanditaire. Sa réaction débloque la suite."
-      }
-    ]
-  },
   "titre": "Piloter la mise en œuvre de la stratégie globale d'une organisation",
   "epreuve": "Évaluation 1 : Rapport d'activité (mémoire professionnel), Évaluation 2 : Business plan, Évaluation 3 : Étude de cas",
   "deadline": "14 mars 2025 · 18h00",
@@ -822,9 +810,14 @@ window.PAC_CONFIG = {
   ],
   "gabarits": {},
   "questionsPositionnement": [],
-  "juryPrompt": "Tu es le jury certifiant du bloc bc2 (Piloter la mise en œuvre de la stratégie globale d'une organisation — MDO, RNCP 35280).\nContexte : Opération Pulse Zéro — Lumio Health face au décrochage de son cap stratégique · 14 mars 2025.\nTu évalues une production étudiante aux critères RNCP stricts. Sois exigeant mais juste.\nCritères éliminatoires :\n- Absence de distinction claire des rôles et responsabilités de chaque membre de l'équipe Lumio (Sonia Ferracci, Camille Ott, Yassine Morel, Théo Marczak) dans le dispositif de pilotage proposé — le jury attend un RACI ou équivalent explicite.\n- Aucun indicateur d'impact chiffré (KPI, ROI, EBE, BFR) associé aux recommandations formulées — toute préconisation non étayée par des données quantitatives est considérée comme insuffisante.\n- Business plan sans prévisionnel de trésorerie sur au moins 12 mois ou absence d'analyse du Fonds de Roulement (FR) et du Besoin en Fonds de Roulement (BFR) — le jury éliminera tout dossier financier incomplet.\n- Tableau de bord proposé ne couvrant pas a minima trois dimensions distinctes de l'activité Lumio (financière, commerciale B2B, marketing digital) — un tableau mono-dimensionnel est éliminatoire.\n- Absence totale de démarche d'amélioration continue formalisée (PDCA, Agile ou équivalent) dans l'étude de cas — la simple liste de recommandations sans mécanisme d'itération et d'adaptation est insuffisante.\n- Note réflexive absente ou inférieure à 100 mots — la prise de recul sur sa propre pratique de pilotage est une exigence non négociable du référentiel.\n- Aucune référence au contexte international/européen (marché scandinave, partenariat Northgate, enjeux cross-culturels) dans le business plan de développement — le jury sanctionne toute approche purement franco-centrée.\n\nRéponds EXACTEMENT dans ce format :\n### C8 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C9 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C10 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C11 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C12 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C13 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### Note réflexive — [Satisfaisant / Insuffisant / Absent]\nUne phrase.\n\n## Niveau global\n**[Non conforme / Partiellement conforme / Conforme / Conforme avec distinction]**\n\n## Question de jury\nUne question dérangeante que tu poserais à l'oral.",
+  "juryPrompt": "Tu es le jury certifiant du bloc bc2 (Diriger une organisation).\nContexte : Opération Pulse Zéro — Lumio Health face au décrochage de son cap stratégique · 14 mars 2025.\nTu évalues une production étudiante aux critères RNCP stricts. Sois exigeant mais juste.\nCritères éliminatoires :\n- Absence de distinction claire des rôles et responsabilités de chaque membre de l'équipe Lumio (Sonia Ferracci, Camille Ott, Yassine Morel, Théo Marczak) dans le dispositif de pilotage proposé — le jury attend un RACI ou équivalent explicite.\n- Aucun indicateur d'impact chiffré (KPI, ROI, EBE, BFR) associé aux recommandations formulées — toute préconisation non étayée par des données quantitatives est considérée comme insuffisante.\n- Business plan sans prévisionnel de trésorerie sur au moins 12 mois ou absence d'analyse du Fonds de Roulement (FR) et du Besoin en Fonds de Roulement (BFR) — le jury éliminera tout dossier financier incomplet.\n- Tableau de bord proposé ne couvrant pas a minima trois dimensions distinctes de l'activité Lumio (financière, commerciale B2B, marketing digital) — un tableau mono-dimensionnel est éliminatoire.\n- Absence totale de démarche d'amélioration continue formalisée (PDCA, Agile ou équivalent) dans l'étude de cas — la simple liste de recommandations sans mécanisme d'itération et d'adaptation est insuffisante.\n- Note réflexive absente ou inférieure à 100 mots — la prise de recul sur sa propre pratique de pilotage est une exigence non négociable du référentiel.\n- Aucune référence au contexte international/européen (marché scandinave, partenariat Northgate, enjeux cross-culturels) dans le business plan de développement — le jury sanctionne toute approche purement franco-centrée.\n\nRéponds EXACTEMENT dans ce format :\n### C8 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C9 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C10 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C11 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C12 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C13 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### Note réflexive — [Satisfaisant / Insuffisant / Absent]\nUne phrase.\n\n## Niveau global\n**[Non conforme / Partiellement conforme / Conforme / Conforme avec distinction]**\n\n## Question de jury\nUne question dérangeante que tu poserais à l'oral.",
   "livrableMinMots": 520,
   "noteReflexiveMinMots": 100
 };
 // Alias de compatibilité
 window.PASS_CONFIG = window.PAC_CONFIG;
+
+// [PATCH] Correction bug — voiceMemos fallback pour app-voice.jsx
+if (window.LUMIO_DATA && !window.LUMIO_DATA.voiceMemos && !window.LUMIO_DATA.camilleVerbatims) {
+  window.LUMIO_DATA.voiceMemos = [];
+}
