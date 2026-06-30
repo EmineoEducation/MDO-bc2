@@ -151,7 +151,7 @@ window.LUMIO_DATA = {
             },
             {
               "type": "p",
-              "text": "Hypothèse : Northgate réduit le périmètre à 15 sites (pénalité contractuelle de 15 % appliquée). Revenus Northgate révisés : 153 000 € sur 18 mois. Pas de nouveaux clients B2B signés sur T2 2025. Churn estimé à 8 % du portefeuille existant (perte de 14 clients). Revenus ARR révisés : 996 000 €. Charges fixes maintenues à 118 000 €/mois soit 1 416 000 € sur 12 mois. RÉSULTAT OPÉRATIONNEL ESTIMÉ : – 267 000 € sur l'exercice 2025. BFR : [À COMPLÉTER — données stock wearables et délais encaissement Northgate manquants]. ROI opération Northgate dans ce scénario : [NON CALCULÉ]."
+              "text": "Hypothèse : Northgate réduit le périmètre à 15 sites (pénalité contractuelle de 15 % appliquée). Revenus Northgate révisés : 153 000 € sur 18 mois. Pas de nouveaux clients B2B signés sur T2 2025. Churn estimé à 8 % du portefeuille existant (perte de 14 clients). Revenus ARR révisés : 996 000 €. Charges fixes maintenues à 118 000 €/mois soit 1 416 000 € sur 12 mois. RÉSULTAT OPÉRATIONNEL ESTIMÉ : – 267 000 € sur l'exercice 2025. BFR : estimé à 89 000 € (stock wearables 62 000 € + créances Northgate 30j fin de mois, délai encaissement moyen 47 jours). Tension de trésorerie critique dès septembre 2025 sans ligne de crédit court terme.. ROI opération Northgate scénario pessimiste : 0.85x sur 18 mois (investissement 150 000 € ; revenus nets 128 000 € après pénalité). Opération déficitaire."
             },
             {
               "type": "h2",
@@ -159,7 +159,7 @@ window.LUMIO_DATA = {
             },
             {
               "type": "p",
-              "text": "Hypothèse : Déploiement Northgate reprogrammé sur 20 semaines totales (décalage absorbé sans pénalité, sous réserve de la remise du plan le 24 mars). 35 sites déployés comme prévu : revenus Northgate maintenus à 420 000 € sur 18 mois. 12 nouveaux clients B2B signés sur T2–T3 2025 (pipeline Camille Ott, secteur santé et industrie). ARR projeté fin 2025 : 1 152 000 €. Charges : réduction ciblée de 8 % sur le poste content/events suite aux arbitrages Sonia (économie estimée : 9 440 €/mois). Charges mensuelles révisées : 108 560 €. RÉSULTAT OPÉRATIONNEL ESTIMÉ : + 48 000 € sur l'exercice 2025. BFR : [À COMPLÉTER — besoin de confirmation du cycle de facturation Northgate : 30 jours ou 60 jours fin de mois ?]. ROI opération Northgate dans ce scénario : [NON CALCULÉ — base de calcul investissement total projet à fournir par Camille]."
+              "text": "Hypothèse : Déploiement Northgate reprogrammé sur 20 semaines totales (décalage absorbé sans pénalité, sous réserve de la remise du plan le 24 mars). 35 sites déployés comme prévu : revenus Northgate maintenus à 420 000 € sur 18 mois. 12 nouveaux clients B2B signés sur T2–T3 2025 (pipeline Camille Ott, secteur santé et industrie). ARR projeté fin 2025 : 1 152 000 €. Charges : réduction ciblée de 8 % sur le poste content/events suite aux arbitrages Sonia (économie estimée : 9 440 €/mois). Charges mensuelles révisées : 108 560 €. RÉSULTAT OPÉRATIONNEL ESTIMÉ : + 48 000 € sur l'exercice 2025. BFR : estimé à 54 000 € (cycle Northgate confirmé 30 jours fin de mois, stock réduit à 41 000 € après optimisation logistique Q3). Trésorerie stable à horizon décembre 2025.. ROI opération Northgate : 2.8x sur 18 mois (investissement total projet 150 000 € incluant intégration technique 65 000 € + déplacements 35 000 € + support dédié 50 000 € ; revenus nets 420 000 €).."
             },
             {
               "type": "h2",
@@ -167,7 +167,7 @@ window.LUMIO_DATA = {
             },
             {
               "type": "p",
-              "text": "Hypothèse : Northgate accepte un avenant pour étendre le contrat à 50 sites sur 24 mois (potentiel additionnel : 180 000 €). 25 nouveaux clients B2B signés d'ici fin 2025. ARR projeté fin 2025 : 1 350 000 €. Recrutement d'un Customer Success Manager senior (coût : 52 000 € brut annuel, à partir de juillet 2025). Charges mensuelles T3 : estimées à 122 000 €. RÉSULTAT OPÉRATIONNEL ESTIMÉ : + 186 000 € sur l'exercice 2025. BFR : [À COMPLÉTER — impact du recrutement sur trésorerie court terme non modélisé]. ROI opération Northgate étendue : [NON CALCULÉ — dépend de la valorisation de l'effet réseau nordique sur le pipeline 2026]."
+              "text": "Hypothèse : Northgate accepte un avenant pour étendre le contrat à 50 sites sur 24 mois (potentiel additionnel : 180 000 €). 25 nouveaux clients B2B signés d'ici fin 2025. ARR projeté fin 2025 : 1 350 000 €. Recrutement d'un Customer Success Manager senior (coût : 52 000 € brut annuel, à partir de juillet 2025). Charges mensuelles T3 : estimées à 122 000 €. RÉSULTAT OPÉRATIONNEL ESTIMÉ : + 186 000 € sur l'exercice 2025. BFR : estimé à 72 000 € (recrutement CSM impacte trésorerie de +4 300 €/mois charges comprises à partir de juillet, compensé par accélération encaissements Northgate étendu). Autofinancement atteint en Q1 2026.. ROI opération Northgate étendue : 3.4x sur 24 mois (investissement total 195 000 € incluant CSM senior ; revenus projetés 660 000 € sur contrat étendu 50 sites). Effet réseau nordique non valorisé dans ce calcul.."
             },
             {
               "type": "callout",
@@ -628,7 +628,7 @@ window.LUMIO_DATA = {
       "date": "11 mars 2025",
       "headline": "Medtech : quand l'écart entre ambition stratégique et exécution opérationnelle devient le vrai risque de croissance",
       "lede": "Les start-up de santé connectée françaises affichent des roadmaps ambitieuses, mais les données du premier trimestre 2025 révèlent une fracture persistante entre objectifs fixés en janvier et résultats terrain. Un phénomène qui fragilise autant la relation investisseur que la crédibilité commerciale.",
-      "illustration": "PHOTO ILLUSTRATIVE",
+      "illustration": "portraits/Theo_Marczak.png",
       "body": "Les acteurs de la medtech portée — wearables, capteurs biométriques, dispositifs de monitoring continu — ont massivement investi dans la formalisation de plans stratégiques pluriannuels depuis 2022. Une maturité de façade, selon plusieurs observateurs du secteur, qui masque des lacunes profondes dans la traduction opérationnelle de ces ambitions.\n\nSelon une étude du cabinet Alma Consulting publiée en février 2025, 67 % des scale-up medtech européennes ayant levé entre 5 et 20 millions d'euros constatent un écart supérieur à 15 % entre leurs KPI stratégiques et leurs indicateurs opérationnels réels au bout d'un trimestre. « Le problème n'est pas la qualité du plan, c'est l'absence de dispositif de pilotage intermédiaire capable de détecter la dérive avant qu'elle devienne structurelle », résume Élise Coquery, directrice associée chez Alma.\n\nLe déploiement de partenariats B2B à l'international constitue l'un des points de rupture les plus fréquents. Les délais contractuels sont souvent sous-estimés, les équipes terrain insuffisamment dotées en outils de coordination, et les indicateurs de suivi calqués sur des modèles SaaS peu adaptés aux contraintes réglementaires du secteur médical en Europe du Nord.\n\nCôté financement, la tension se cristallise autour de la relation avec les fonds d'investissement. Ces derniers exigent désormais, dès le premier signe de décrochage, la production d'un plan de pilotage consolidé — souvent sous des délais très courts. « Dix jours pour reconstruire une feuille de route crédible, c'est devenu la norme implicite dans nos term sheets », confie un partner d'un fonds spécialisé santé numérique, sous couvert d'anonymat.\n\nLes directions marketing et content sont les premières à absorber les conséquences de ces désalignements. La baisse d'engagement des contenus de marque, mesurée sur les marchés nordiques et germaniques, est souvent le premier signal visible d'une perte de cohérence entre le discours externe et la réalité du déploiement produit.\n\nFace à ces constats, plusieurs medtech ont commencé à structurer des CODIR de crise trimestriels, intégrant une révision systématique des hypothèses du business plan initial. L'objectif : ne plus attendre le bilan semestriel pour corriger le tir, mais instaurer une culture du pilotage continu, outillée et documentée.\n\n« La pérennité d'une organisation dans ce secteur ne se joue plus seulement sur l'innovation produit, conclut Élise Coquery. Elle se joue sur la capacité du management à transformer un écart de performance en levier d'amélioration — vite, et de façon visible pour les partenaires. »"
     }
   ],
@@ -646,6 +646,26 @@ window.LUMIO_DATA = {
 
 window.PAC_CONFIG = {
   "bloc": "bc2",
+  accroche_namescreen: {
+    "subtitle": "Piloter la mise en œuvre",
+    "role": "consultant·e en pilotage d'organisation",
+    "intro": "Tu es {{STUDENT}}, consultant·e chez Lumio Health pour l'Opération Pulse Zéro — l'entreprise décroche de son cap stratégique. Pilotage structurel et financier, indicateurs de suivi, amélioration continue : tu produis le rapport d'activité, le business plan et l'étude de cas qui remettent l'organisation sur sa trajectoire.",
+    "ratio_label": "3 semaines dans la vraie vie",
+    "regles": [
+      {
+        "ico": "📄",
+        "txt": "Tout ce que tu sais, c'est dans les documents de pilotage du poste de mission."
+      },
+      {
+        "ico": "🤐",
+        "txt": "Le jury évalue tes outils de contrôle de gestion, tes indicateurs et la mesure des écarts."
+      },
+      {
+        "ico": "💬",
+        "txt": "Quand tu as une analyse solide → Slack → ton commanditaire. Sa réaction débloque la suite."
+      }
+    ]
+  },
   "titre": "Piloter la mise en œuvre de la stratégie globale d'une organisation",
   "epreuve": "Évaluation 1 : Rapport d'activité (mémoire professionnel), Évaluation 2 : Business plan, Évaluation 3 : Étude de cas",
   "deadline": "14 mars 2025 · 18h00",
@@ -810,14 +830,9 @@ window.PAC_CONFIG = {
   ],
   "gabarits": {},
   "questionsPositionnement": [],
-  "juryPrompt": "Tu es le jury certifiant du bloc bc2 (Diriger une organisation).\nContexte : Opération Pulse Zéro — Lumio Health face au décrochage de son cap stratégique · 14 mars 2025.\nTu évalues une production étudiante aux critères RNCP stricts. Sois exigeant mais juste.\nCritères éliminatoires :\n- Absence de distinction claire des rôles et responsabilités de chaque membre de l'équipe Lumio (Sonia Ferracci, Camille Ott, Yassine Morel, Théo Marczak) dans le dispositif de pilotage proposé — le jury attend un RACI ou équivalent explicite.\n- Aucun indicateur d'impact chiffré (KPI, ROI, EBE, BFR) associé aux recommandations formulées — toute préconisation non étayée par des données quantitatives est considérée comme insuffisante.\n- Business plan sans prévisionnel de trésorerie sur au moins 12 mois ou absence d'analyse du Fonds de Roulement (FR) et du Besoin en Fonds de Roulement (BFR) — le jury éliminera tout dossier financier incomplet.\n- Tableau de bord proposé ne couvrant pas a minima trois dimensions distinctes de l'activité Lumio (financière, commerciale B2B, marketing digital) — un tableau mono-dimensionnel est éliminatoire.\n- Absence totale de démarche d'amélioration continue formalisée (PDCA, Agile ou équivalent) dans l'étude de cas — la simple liste de recommandations sans mécanisme d'itération et d'adaptation est insuffisante.\n- Note réflexive absente ou inférieure à 100 mots — la prise de recul sur sa propre pratique de pilotage est une exigence non négociable du référentiel.\n- Aucune référence au contexte international/européen (marché scandinave, partenariat Northgate, enjeux cross-culturels) dans le business plan de développement — le jury sanctionne toute approche purement franco-centrée.\n\nRéponds EXACTEMENT dans ce format :\n### C8 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C9 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C10 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C11 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C12 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C13 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### Note réflexive — [Satisfaisant / Insuffisant / Absent]\nUne phrase.\n\n## Niveau global\n**[Non conforme / Partiellement conforme / Conforme / Conforme avec distinction]**\n\n## Question de jury\nUne question dérangeante que tu poserais à l'oral.",
+  "juryPrompt": "Tu es le jury certifiant du bloc bc2 (Piloter la mise en œuvre de la stratégie globale d'une organisation — MDO, RNCP 35280).\nContexte : Opération Pulse Zéro — Lumio Health face au décrochage de son cap stratégique · 14 mars 2025.\nTu évalues une production étudiante aux critères RNCP stricts. Sois exigeant mais juste.\nCritères éliminatoires :\n- Absence de distinction claire des rôles et responsabilités de chaque membre de l'équipe Lumio (Sonia Ferracci, Camille Ott, Yassine Morel, Théo Marczak) dans le dispositif de pilotage proposé — le jury attend un RACI ou équivalent explicite.\n- Aucun indicateur d'impact chiffré (KPI, ROI, EBE, BFR) associé aux recommandations formulées — toute préconisation non étayée par des données quantitatives est considérée comme insuffisante.\n- Business plan sans prévisionnel de trésorerie sur au moins 12 mois ou absence d'analyse du Fonds de Roulement (FR) et du Besoin en Fonds de Roulement (BFR) — le jury éliminera tout dossier financier incomplet.\n- Tableau de bord proposé ne couvrant pas a minima trois dimensions distinctes de l'activité Lumio (financière, commerciale B2B, marketing digital) — un tableau mono-dimensionnel est éliminatoire.\n- Absence totale de démarche d'amélioration continue formalisée (PDCA, Agile ou équivalent) dans l'étude de cas — la simple liste de recommandations sans mécanisme d'itération et d'adaptation est insuffisante.\n- Note réflexive absente ou inférieure à 100 mots — la prise de recul sur sa propre pratique de pilotage est une exigence non négociable du référentiel.\n- Aucune référence au contexte international/européen (marché scandinave, partenariat Northgate, enjeux cross-culturels) dans le business plan de développement — le jury sanctionne toute approche purement franco-centrée.\n\nRéponds EXACTEMENT dans ce format :\n### C8 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C9 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C10 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C11 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C12 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C13 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### Note réflexive — [Satisfaisant / Insuffisant / Absent]\nUne phrase.\n\n## Niveau global\n**[Non conforme / Partiellement conforme / Conforme / Conforme avec distinction]**\n\n## Question de jury\nUne question dérangeante que tu poserais à l'oral.",
   "livrableMinMots": 520,
   "noteReflexiveMinMots": 100
 };
 // Alias de compatibilité
 window.PASS_CONFIG = window.PAC_CONFIG;
-
-// [PATCH] Correction bug — voiceMemos fallback pour app-voice.jsx
-if (window.LUMIO_DATA && !window.LUMIO_DATA.voiceMemos && !window.LUMIO_DATA.camilleVerbatims) {
-  window.LUMIO_DATA.voiceMemos = [];
-}
