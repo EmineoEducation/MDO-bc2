@@ -135,7 +135,7 @@ window.LUMIO_DATA = {
           "blocks": [
             {
               "type": "p",
-              "text": "Ce draft pose les premières hypothèses chiffrées pour la relance du déploiement Northgate et la stabilisation de Lumio Health sur T2–T3 2025. Les chiffres ci-dessous sont des estimations de travail : plusieurs lignes BFR restent incomplètes et les calculs de ROI sont à finaliser en séance. L'objectif est d'arriver au CODIR avec une base commune, pas avec un modèle verrouillé. Je préfère qu'on discute d'un draft honnête plutôt qu'un tableau poli qui cache des angles morts."
+              "text": "Ce draft pose trois scénarios chiffrés pour la relance du déploiement Northgate et la stabilisation de Lumio Health sur T2–T3 2025, avec pour chacun le résultat opérationnel, le BFR et le ROI associés. L'objectif est d'arriver au CODIR avec une base de discussion complète, pas avec un modèle verrouillé : les hypothèses restent ouvertes à la contradiction, les chiffres non."
             },
             {
               "type": "h2",
@@ -151,7 +151,7 @@ window.LUMIO_DATA = {
             },
             {
               "type": "p",
-              "text": "Hypothèse : Northgate réduit le périmètre à 15 sites (pénalité contractuelle de 15 % appliquée). Revenus Northgate révisés : 153 000 € sur 18 mois. Pas de nouveaux clients B2B signés sur T2 2025. Churn estimé à 8 % du portefeuille existant (perte de 14 clients). Revenus ARR révisés : 996 000 €. Charges fixes maintenues à 118 000 €/mois soit 1 416 000 € sur 12 mois. RÉSULTAT OPÉRATIONNEL ESTIMÉ : – 267 000 € sur l'exercice 2025. BFR : estimé à 89 000 € (stock wearables 62 000 € + créances Northgate 30j fin de mois, délai encaissement moyen 47 jours). Tension de trésorerie critique dès septembre 2025 sans ligne de crédit court terme.. ROI opération Northgate scénario pessimiste : 0.85x sur 18 mois (investissement 150 000 € ; revenus nets 128 000 € après pénalité). Opération déficitaire."
+              "text": "Hypothèse : Northgate réduit le périmètre à 15 sites (pénalité contractuelle de 15 % appliquée). Revenus Northgate révisés : 153 000 € sur 18 mois. Pas de nouveaux clients B2B signés sur T2 2025. Churn estimé à 8 % du portefeuille existant (perte de 14 clients). Revenus ARR révisés : 996 000 €. Charges fixes maintenues à 118 000 €/mois soit 1 416 000 € sur 12 mois. RÉSULTAT OPÉRATIONNEL ESTIMÉ : – 267 000 € sur l'exercice 2025. BFR : estimé à 89 000 € (stock wearables 62 000 € + créances Northgate 30j fin de mois, délai encaissement moyen 47 jours). Tension de trésorerie critique dès septembre 2025 sans ligne de crédit court terme. ROI opération Northgate scénario pessimiste : 0.85x sur 18 mois (investissement 150 000 € ; revenus nets 128 000 € après pénalité). Opération déficitaire."
             },
             {
               "type": "h2",
@@ -159,7 +159,7 @@ window.LUMIO_DATA = {
             },
             {
               "type": "p",
-              "text": "Hypothèse : Déploiement Northgate reprogrammé sur 20 semaines totales (décalage absorbé sans pénalité, sous réserve de la remise du plan le 24 mars). 35 sites déployés comme prévu : revenus Northgate maintenus à 420 000 € sur 18 mois. 12 nouveaux clients B2B signés sur T2–T3 2025 (pipeline Camille Ott, secteur santé et industrie). ARR projeté fin 2025 : 1 152 000 €. Charges : réduction ciblée de 8 % sur le poste content/events suite aux arbitrages Sonia (économie estimée : 9 440 €/mois). Charges mensuelles révisées : 108 560 €. RÉSULTAT OPÉRATIONNEL ESTIMÉ : + 48 000 € sur l'exercice 2025. BFR : estimé à 54 000 € (cycle Northgate confirmé 30 jours fin de mois, stock réduit à 41 000 € après optimisation logistique Q3). Trésorerie stable à horizon décembre 2025.. ROI opération Northgate : 2.8x sur 18 mois (investissement total projet 150 000 € incluant intégration technique 65 000 € + déplacements 35 000 € + support dédié 50 000 € ; revenus nets 420 000 €).."
+              "text": "Hypothèse : Déploiement Northgate reprogrammé sur 20 semaines totales (décalage absorbé sans pénalité, sous réserve de la remise du plan le 24 mars). 35 sites déployés comme prévu : revenus Northgate maintenus à 420 000 € sur 18 mois. 12 nouveaux clients B2B signés sur T2–T3 2025 (pipeline Camille Ott, secteur santé et industrie). ARR projeté fin 2025 : 1 152 000 €. Charges : réduction ciblée de 8 % sur le poste content/events suite aux arbitrages Sonia (économie estimée : 9 440 €/mois). Charges mensuelles révisées : 108 560 €. RÉSULTAT OPÉRATIONNEL ESTIMÉ : + 48 000 € sur l'exercice 2025. BFR : estimé à 54 000 € (cycle Northgate confirmé 30 jours fin de mois, stock réduit à 41 000 € après optimisation logistique Q3). Trésorerie stable à horizon décembre 2025. ROI opération Northgate : 2.8x sur 18 mois (investissement total projet 150 000 € incluant intégration technique 65 000 € + déplacements 35 000 € + support dédié 50 000 € ; revenus nets 420 000 €)."
             },
             {
               "type": "h2",
@@ -167,11 +167,11 @@ window.LUMIO_DATA = {
             },
             {
               "type": "p",
-              "text": "Hypothèse : Northgate accepte un avenant pour étendre le contrat à 50 sites sur 24 mois (potentiel additionnel : 180 000 €). 25 nouveaux clients B2B signés d'ici fin 2025. ARR projeté fin 2025 : 1 350 000 €. Recrutement d'un Customer Success Manager senior (coût : 52 000 € brut annuel, à partir de juillet 2025). Charges mensuelles T3 : estimées à 122 000 €. RÉSULTAT OPÉRATIONNEL ESTIMÉ : + 186 000 € sur l'exercice 2025. BFR : estimé à 72 000 € (recrutement CSM impacte trésorerie de +4 300 €/mois charges comprises à partir de juillet, compensé par accélération encaissements Northgate étendu). Autofinancement atteint en Q1 2026.. ROI opération Northgate étendue : 3.4x sur 24 mois (investissement total 195 000 € incluant CSM senior ; revenus projetés 660 000 € sur contrat étendu 50 sites). Effet réseau nordique non valorisé dans ce calcul.."
+              "text": "Hypothèse : Northgate accepte un avenant pour étendre le contrat à 50 sites sur 24 mois (potentiel additionnel : 180 000 €). 25 nouveaux clients B2B signés d'ici fin 2025. ARR projeté fin 2025 : 1 350 000 €. Recrutement d'un Customer Success Manager senior (coût : 52 000 € brut annuel, à partir de juillet 2025). Charges mensuelles T3 : estimées à 122 000 €. RÉSULTAT OPÉRATIONNEL ESTIMÉ : + 186 000 € sur l'exercice 2025. BFR : estimé à 72 000 € (recrutement CSM impacte trésorerie de +4 300 €/mois charges comprises à partir de juillet, compensé par accélération encaissements Northgate étendu). Autofinancement atteint en Q1 2026. ROI opération Northgate étendue : 3.4x sur 24 mois (investissement total 195 000 € incluant CSM senior ; revenus projetés 660 000 € sur contrat étendu 50 sites). Effet réseau nordique non valorisé dans ce calcul."
             },
             {
               "type": "callout",
-              "text": "POINTS À TRANCHER EN CODIR (14 mars) — (1) Valider ou corriger les hypothèses de churn dans le scénario pessimiste. (2) Fournir les données BFR manquantes : délais d'encaissement Northgate + niveau de stock wearables immobilisé. (3) Calculer les ROI des trois scénarios une fois les données BFR intégrées. (4) Arbitrer entre scénario 2 et 3 pour la réponse à Jakob Rein. (5) Confirmer la marge de manœuvre contractuelle sur l'avenant Northgate avant toute communication externe."
+              "text": "POINTS À TRANCHER EN CODIR (14 mars) — (1) Valider ou corriger les hypothèses de churn dans le scénario pessimiste. (2) Arbitrer entre scénario 2 et 3 pour la réponse à Jakob Rein. (3) Confirmer la marge de manœuvre contractuelle sur l'avenant Northgate avant toute communication externe."
             }
           ]
         }
