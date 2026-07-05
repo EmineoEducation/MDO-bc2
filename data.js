@@ -641,7 +641,36 @@ window.LUMIO_DATA = {
     "headline": "Wearables santé : les investisseurs européens perdent patience face aux retards de déploiement des startups françaises",
     "chapeau": "Plusieurs fonds nordiques engagés dans des partenariats medtech avec des PME françaises menacent de suspendre leurs financements après des glissements calendaires répétés en ce début 2025. Le secteur du bien-être au travail, pourtant porté par une demande record, commence à montrer ses fragilités opérationnelles. Les prochaines semaines seront décisives pour les acteurs qui n'auront pas su produire des garanties de pilotage solides.",
     "body": "Selon une note confidentielle de Northgate Capital consultée par Les Échos, au moins trois startups françaises spécialisées dans la santé connectée en entreprise font actuellement l'objet d'une revue de portefeuille accélérée. Le fonds d'investissement basé à Stockholm, qui a déployé près de 47 millions d'euros sur le segment wearables B2B depuis 2022, exige désormais de ses participations un plan de pilotage consolidé avant toute reconduction de contrat. 'Nous ne finançons pas des roadmaps PowerPoint. Nous finançons des organisations capables d'exécuter', a déclaré une source proche du fonds. Ce durcissement intervient dans un contexte de consolidation rapide du marché européen du bien-être au travail, où des acteurs allemands et scandinaves gagnent des parts grâce à des processus d'industrialisation plus matures. Pour les jeunes pousses françaises, l'heure n'est plus à la séduction des investisseurs mais à la preuve par les chiffres. Celles qui ne présenteront pas de dispositifs de contrôle de gestion crédibles d'ici fin mars risquent de voir leurs partenariats stratégiques basculer vers des concurrents mieux armés."
-  }
+  },
+  "voiceMemos": [
+    {
+        "title": "Sur les six semaines de retard vues du terrain",
+        "author": "Camille Ott",
+        "role": "Responsable partenariats B2B",
+        "date": "",
+        "context": "Verbatim terrain",
+        "durationSec": 88,
+        "transcript": "Le retard de six semaines sur le déploiement Northgate, moi je le vis côté clients avant de le voir dans un tableau de KPI. J'ai deux comptes qui m'ont demandé, poliment, si « tout allait bien chez Lumio ». Quand un client pose cette question-là, c'est qu'il a déjà entendu quelque chose. Le problème n'est pas qu'on a du retard — tout le monde a du retard un jour. Le problème c'est que personne ne pilote le récit de ce retard. Chacun découvre les écarts au CODIR, en même temps que tout le monde. Un plan de pilotage consolidé, ce n'est pas de la paperasse : c'est ce qui me permet de répondre à un client avec une date au lieu d'un silence."
+    },
+    {
+        "title": "Sur le circuit Content-Marketing qui fuit",
+        "author": "Camille Ott",
+        "role": "Responsable partenariats B2B",
+        "date": "",
+        "context": "Verbatim terrain",
+        "durationSec": 72,
+        "transcript": "L'audit des processus dit ce qu'on sait tous depuis des mois : entre le brief de Sonia, la production de Yassine et ce qui part réellement chez les partenaires, il y a trois versions d'un même document et aucune n'est validée par la même personne. La semaine dernière, un support est parti chez un compte avec des chiffres du T4 alors que le CODIR avait acté les hypothèses T1. Ce n'est pas une faute individuelle, c'est un circuit sans propriétaire. Tant qu'on n'aura pas nommé qui valide quoi, à quelle étape, on refera la même erreur — juste avec des enjeux Northgate en plus."
+    },
+    {
+        "title": "Ce que le CODIR du 14 n'a pas tranché",
+        "author": "Camille Ott",
+        "role": "Responsable partenariats B2B",
+        "date": "",
+        "context": "Verbatim terrain",
+        "durationSec": 70,
+        "transcript": "Le CODIR extraordinaire a acté des décisions, très bien. Mais il reste un trou dans la feuille de route : qui arbitre quand les objectifs de relance et les engagements Northgate entrent en conflit ? Parce que ça va arriver. Le jour où je dois choisir entre tenir une promesse faite à un client historique et libérer des ressources pour la Phase 2, j'arbitre comment ? Aujourd'hui la réponse honnête, c'est « ça dépend de qui crie le plus fort au standup ». Une organisation qui se pilote à la voix la plus forte, ce n'est pas une organisation pilotée."
+    }
+  ]
 };
 
 window.PAC_CONFIG = {
