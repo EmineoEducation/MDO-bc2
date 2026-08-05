@@ -865,3 +865,19 @@ window.PAC_CONFIG = {
 };
 // Alias de compatibilité
 window.PASS_CONFIG = window.PAC_CONFIG;
+
+// === [Carte portfolio] — 05/08/2026 · contenu propre au bloc, ajout non destructif ===
+(function () {
+  var c = window.PAC_CONFIG || window.PASS_CONFIG;
+  if (!c) return;
+  c.portfolio = {
+    missionTitre: "Remettre l'exécution en phase avec la stratégie",
+    miseEnSituation: "Le cap stratégique est fixé mais l'exécution décroche : la trésorerie se tend sans que le besoin en fonds de roulement soit suivi, les projets avancent sans indicateurs partagés, et les problèmes récurrents sont traités au cas par cas sans jamais être résolus à la source.",
+    choix: "Un dispositif de pilotage unique couvrant l'activité, la finance et les projets, comprenant un prévisionnel de trésorerie glissant sur douze mois, et une démarche d'amélioration continue traitant les causes racines plutôt que les symptômes.",
+    justification: "Piloter sans suivre le besoin en fonds de roulement expose une entreprise rentable à la rupture de trésorerie ; réunir les dimensions financière et opérationnelle dans un même tableau de bord évite que les arbitrages se prennent sur des informations partielles.",
+    imageSrc: ""
+  };
+  window.PAC_CONFIG = c;
+  window.PASS_CONFIG = c;
+})();
+// === [Carte portfolio] fin ===
