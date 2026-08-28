@@ -2,7 +2,6 @@
 //  DATA · PAC BC2 · Diriger une organisation
 //  Opération Pulse Zéro — Lumio Health face au décrochage de son cap stratégique · 14 mars 2025
 //  Schéma : mailbox[] · dossiers[] · notes[] · guide · finder · calendar · slack
-//  ⚠️  Remplacer les [À COMPLÉTER] par le contenu narratif réel du bloc.
 //  ⚠️  Les placeholders {{PRENOM}} {{NOM}} {{EMAIL_ETUDIANT}} sont substitués à la connexion.
 // ══════════════════════════════════════════════════════════════
 
@@ -675,6 +674,7 @@ window.LUMIO_DATA = {
 
 window.PAC_CONFIG = {
   "bloc": "bc2",
+  "titreCode": "MDO",
   accroche_namescreen: {
     "subtitle": "Piloter la mise en œuvre",
     "role": "consultant·e en pilotage d'organisation",
